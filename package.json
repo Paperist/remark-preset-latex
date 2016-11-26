@@ -1,0 +1,32 @@
+{
+  "name": "@paperist/remark-preset-latex",
+  "description": "LaTeX preset for wooorm/remark",
+  "version": "0.0.0",
+  "dependencies": {
+    "@paperist/remark-crossref": "^0.0.1",
+    "@paperist/remark-latex": "^0.0.1",
+    "@paperist/remark-mathjax": "^0.0.1",
+    "@paperist/remark-table-caption": "^0.0.1"
+  },
+  "files": [
+    "package.json",
+    "README",
+    "LICENSE",
+    "index.js"
+  ],
+  "keywords": [
+    "latex",
+    "markdown",
+    "remark",
+    "tex"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "remarkConfig": {
+    "output": true,
+    "presets": "./"
+  },
+  "scripts": {
+    "test": "exit 0"
+  }
+}
