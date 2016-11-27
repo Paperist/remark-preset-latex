@@ -4,7 +4,7 @@
   "version": "0.0.3",
   "dependencies": {
     "@paperist/remark-crossref": "^0.0.3",
-    "@paperist/remark-latex": "^0.0.3",
+    "@paperist/remark-latex": "^0.0.4",
     "@paperist/remark-mathjax": "^0.0.1",
     "@paperist/remark-table-caption": "^0.0.1"
   },
