@@ -1,7 +1,7 @@
 {
   "name": "@paperist/remark-preset-latex",
   "description": "LaTeX preset for wooorm/remark",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "dependencies": {
     "@paperist/remark-crossref": "^0.0.3",
     "@paperist/remark-latex": "^0.0.4",
