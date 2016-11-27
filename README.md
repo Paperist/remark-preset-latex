@@ -46,6 +46,8 @@ Inspired by [pandoc-crossref](https://github.com/lierdakil/pandoc-crossref).
 
 ```markdown
 ![Caption](file.ext){#fig:label}
+
+![Caption](file.ext){#fig:label2 width=5cm,height=5cm}
 ```
 
 ### Equation labels
