@@ -5,7 +5,7 @@
   "dependencies": {
     "@paperist/remark-crossref": "^0.0.3",
     "@paperist/remark-latex": "^0.0.7",
-    "@paperist/remark-mathjax": "^0.0.1",
+    "@paperist/remark-mathjax": "^0.1.0",
     "@paperist/remark-table-caption": "^0.0.1"
   },
   "files": [
