@@ -2,7 +2,7 @@
 
 **DEPRECATED: Please use [@paperist/remark-latex]**
 
-[@paperist/latex]: https://github.com/Paperist/remark-latex
+[@paperist/remark-latex]: https://github.com/Paperist/remark-latex
 
 ## License
 
